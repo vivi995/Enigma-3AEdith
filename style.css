@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filme Enigma</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Filme Enigma</h1>
+    </header>
+
+    <section id="enredo">
+        <h2>Enredo</h2>
+        <p>Enigma é um filme de suspense lançado em 2001, dirigido por Michael Apted e baseado no romance homônimo de Robert Harris. A história se passa durante a Segunda Guerra Mundial, centrada nos esforços dos britânicos para decifrar o código Enigma usado pelos nazistas para comunicações secretas.</p>
+    </section>
+
+    <section id="elenco">
+        <h2>Elenco</h2>
+        <ul>
+            <li>Dougray Scott</li>
+            <li>Kate Winslet</li>
+            <li>Jeremy Northam</li>
+            <li>Saffron Burrows</li>
+            <li>Nikolaj Coster-Waldau</li>
+        </ul>
+    </section>
+
+    <section id="trailer">
+        <h2>Trailer</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/f7XX5ZPvLPw" title="Trailer do Filme Enigma" frameborder="0" allowfullscreen></iframe>
+    </section>
+    
+</body>
+</html>
